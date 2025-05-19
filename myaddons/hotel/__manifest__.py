@@ -4,7 +4,7 @@
     'summary': "Hotel Management System",
     'description': "Hotel Guest Registration and Billing System",
     'author': "Ralph Paolo Dulce",
-    'website': "https://jezcortez.github.io/",
+    'website': "https://github.com/ralphpdulce/odoo18",
 
     'category': 'Uncategorized',
     'version': '11.0.0',
