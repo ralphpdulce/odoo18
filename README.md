@@ -3,13 +3,7 @@
 [![Help](https://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
 [![Nightly Builds](https://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F)](https://nightly.odoo.com/)
 
-Cortez Odoo18 Repository
-----
-
-> [!NOTE]
-> please disregard the "themes" in this repo (problematic interactions with the application)
-> 
-> ***Update: Current version is updated to final exercise 12/13, please read below on how to incoporate the sql functions on pgAdmin.***
+Dulce Odoo18 Repository
 
 > [!IMPORTANT]
 > **Please read me: Steps on how to add the sql in pgAdmin**
